@@ -1,0 +1,20 @@
+{
+  "id": 104,
+  "title": "Greenhouse Climate Node Long-Range Telemetry",
+  "repository_slug": "greenhouse-climate-node-long-range-telemetry",
+  "category": "Smart Agriculture",
+  "platform": "STM32",
+  "platform_family": "arduino",
+  "difficulty": "Advanced",
+  "estimated_hours": 52,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "EC sensor",
+    "flow sensor"
+  ],
+  "scope": "Build a smart agriculture prototype that uses EC sensor, flow sensor to report field measurements over long distances. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Long-Range Telemetry demonstration with repeatable test steps",
+  "mode": "telemetry",
+  "entrypoint": "firmware/greenhouse-climate-node-long-range-telemetry/greenhouse-climate-node-long-range-telemetry.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
